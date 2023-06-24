@@ -1,0 +1,20 @@
+.dsct-cardcomments-section {
+    background-color: var(--dsct-color-bg-secundary);
+    padding: 0 20px 25px 20px;
+
+}
+
+.dsct-cardcomments-comments {
+    background-color: var(--dsct-color-bg-primary);
+    padding: 20px 25px;
+    border: 1px solid var(--dsct-color-line);
+    border-radius: 12px;
+    margin-bottom: 25px;
+}
+
+.dsct-cardcomments-comments p {
+    color: var(--dsct-color-font-tertiary);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}

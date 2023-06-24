@@ -1,0 +1,10 @@
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Bruce Wayne', '53268745211', 4800.0, '1980-11-25', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Steve Rogers', '87995145622', 9500.0, '1975-03-02', 3);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Berry Allen', '45547558452', 3200.0, '1995-10-13', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Tony Stark', '55778899664', 1800.0, '2008-01-12', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Princess Diana', '45688879410', 14850.0, '1978-10-28', 4);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Gamora Zen', '64655821784', 5520.0, '1985-03-02', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Natasha Ramanoff', '95175325814', 7200.0, '1999-07-13', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Ana Marie', '27538642587', 10000.0, '1977-05-25', 3);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Nico Minoru', '79461382573', 8400.0, '2001-09-13', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Ororo Munroe', '94618451327', 3500.0, '2007-07-27', 0);

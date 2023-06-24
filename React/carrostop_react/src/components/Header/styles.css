@@ -1,0 +1,13 @@
+header {
+    padding: 0 20px;
+    background: var(--ct-color-bg-secundary);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+header h1 {
+    color: var(--ct-color-font-tertiary);
+    font-size: 24px;
+}

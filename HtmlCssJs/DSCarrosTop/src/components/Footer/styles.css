@@ -1,0 +1,33 @@
+.dsct-footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--dsct-color-bg-terciaty);
+    padding: 24px 70px;
+}
+
+.dsct-footer-container p {
+    color: var(--dsct-color-font-primary);
+    padding: 5px;
+}
+
+.dsct-footer-instagram {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.dsct-footer-address {
+    font-size: 16px;
+    font-style: italic;
+    line-height: 24px;
+}
+
+@media(min-width: 746px) {
+    .dsct-footer-container {
+        flex-direction: row;
+        justify-content: space-between;
+        background-color: var(--dsct-color-bg-terciaty);
+        padding: 24px 200px;
+    }
+}
